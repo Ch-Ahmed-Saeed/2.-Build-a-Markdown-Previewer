@@ -1,0 +1,11 @@
+ #editor, #preview {
+	min-height: 600px;
+	min-width: 500px;
+}
+
+
+#defImage {
+
+	max-height: 100px;
+	max-width: 100px;
+}
